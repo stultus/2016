@@ -14,6 +14,7 @@
 * 21-01-2016 - [മധ്യേയിങ്ങനെ](https://www.goodreads.com/book/show/28655517-madhyeyingane)
 * 23-01-2016 - [കഥയാക്കാനാവാതെ](https://www.goodreads.com/book/show/28700155-kadhayakkanavathe)
 * 24-01-2016 - [ഞാനെന്ന ഭാരതീയന്‍](https://www.goodreads.com/book/show/28680216-njanenna-bharatheeyan)
+* 18-01-2016 - [മാമുക്കോയ](https://www.goodreads.com/book/show/16204277-mamukkoya)
 
 ## Feb
 
