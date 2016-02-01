@@ -14,7 +14,9 @@
 * 21-01-2016 - [മധ്യേയിങ്ങനെ](https://www.goodreads.com/book/show/28655517-madhyeyingane)
 * 23-01-2016 - [കഥയാക്കാനാവാതെ](https://www.goodreads.com/book/show/28700155-kadhayakkanavathe)
 * 24-01-2016 - [ഞാനെന്ന ഭാരതീയന്‍](https://www.goodreads.com/book/show/28680216-njanenna-bharatheeyan)
-* 18-01-2016 - [മാമുക്കോയ](https://www.goodreads.com/book/show/16204277-mamukkoya)
+* 28-01-2016 - [മാമുക്കോയ](https://www.goodreads.com/book/show/16204277-mamukkoya)
+* 30-01-2016 - [Bro on the go](https://www.goodreads.com/book/show/7090433-bro-on-the-go)
+* 30-01-2016 - [പൂനാരങ്ങ](https://www.goodreads.com/book/show/28807348-poonaranga)
 
 ## Feb
 
