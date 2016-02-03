@@ -8,6 +8,7 @@ Movies watched.
 * 16-01-2016 - [The Book Thief(2013)](http://www.imdb.com/title/tt0816442/)
 
 ## Feb
+* 02-02-2016 - [Pavada(2016)](http://www.imdb.com/title/tt5068280/)
 
 ## Mar
 
