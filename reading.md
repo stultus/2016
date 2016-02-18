@@ -19,6 +19,10 @@
 * 30-01-2016 - [പൂനാരങ്ങ](https://www.goodreads.com/book/show/28807348-poonaranga)
 
 ## Feb
+* 07-02-2016 - [കഥ ബാക്കി](https://www.goodreads.com/book/show/21936766-kadha-baki)
+* 07-02-2016 - [കഥകഥ പൈങ്കിളി](https://www.goodreads.com/book/show/28975708-kadhakadhappainkili)
+* 07-02-2016 - [മഞ്ഞുകാലം](https://www.goodreads.com/book/show/28973001-manjukalam)
+* 16-02-2016 - [Zen Pencils: Cartoon Quotes from Inspirational Folks](https://www.goodreads.com/book/show/21411877-zen-pencils)
 
 ## Mar
 
