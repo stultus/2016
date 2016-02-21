@@ -13,6 +13,7 @@ Movies watched.
 * 12-02-2016 - [Action Hero Biju](http://www.imdb.com/title/tt5320514/)
 * 13-02-2016 - [Maheshinte Prathikaram](http://www.imdb.com/title/tt4851630/)
 * 14-02-2016 - [Puthiya Niyamam](http://www.imdb.com/title/tt5323568/)
+* 21-02-2016 - [The Tale of the Princess Kaguya](http://www.imdb.com/title/tt2576852/)
 
 
 ## Mar
