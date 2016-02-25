@@ -23,6 +23,8 @@
 * 07-02-2016 - [കഥകഥ പൈങ്കിളി](https://www.goodreads.com/book/show/28975708-kadhakadhappainkili)
 * 07-02-2016 - [മഞ്ഞുകാലം](https://www.goodreads.com/book/show/28973001-manjukalam)
 * 16-02-2016 - [Zen Pencils: Cartoon Quotes from Inspirational Folks](https://www.goodreads.com/book/show/21411877-zen-pencils)
+* 23-02-2016 - [മുംബൈ](https://www.goodreads.com/book/show/15786174-mumbai)
+* 24-02-2016 - [ചൂളൈമേടിലെ ശവങ്ങള്‍ ](https://www.goodreads.com/book/show/13507815-choolaimedile-savangal)
 
 ## Mar
 
