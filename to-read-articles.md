@@ -5,3 +5,4 @@
 - [ ] [The spy who fired me](http://harpers.org/archive/2015/03/the-spy-who-fired-me/?single=1)
 - [  ] [Python Patterns, Take One](https://taoofmac.com/space/blog/2013/08/11/2300)
 - [ ] [Your Phone Was Made By Slaves: A Primer on the Secret Economy](http://blog.longreads.com/2016/03/08/your-phone-was-made-by-slaves-a-primer-on-the-secret-economy/)
+- [ ] [The impact of syntax colouring on program comprehension](http://www.ppig.org/sites/default/files/2015-PPIG-26th-Sarkar.pdf)
