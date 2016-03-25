@@ -17,8 +17,10 @@ Movies watched.
 * 26-02-2016 - [Loham](http://www.imdb.com/title/tt4881242/)
 * 28-02-2016 - [Mission: Impossible - Rogue Nation](http://www.imdb.com/title/tt2381249/)
 
-
 ## Mar
+* 19-03-2016 - [Bhaskar the rascal](www.imdb.com/title/tt4584862/)
+* 23-03-2016 - [Ant-Man](http://www.imdb.com/title/tt0478970/)
+* 24-03-2016 - [Batman V Superman: Dawn of justice](http://www.imdb.com/title/tt2975590/)
 
 ## Apr
 
