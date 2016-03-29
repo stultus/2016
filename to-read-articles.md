@@ -13,3 +13,6 @@
 - [ ] [Scalable, Distributed Data Structures for Internet Service Construction](http://www.usenix.org/legacy/events/osdi00/full_papers/gribble/gribble.pdf)
 - [ ] [Intro to Distributed Hash Tables (DHTs)](https://www.newtolife.net/intro-to-distributed-hash-tables-dhts.html)
 - [ ] [Bittorrent DHT Protocol](http://www.bittorrent.org/beps/bep_0005.html)
+- [ ] [Gossip protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
+- [ ] [Peer-to-peer networks - basic tutorial](http://tutorials.jenkov.com/p2p/index.html)
+- [ ] [Kademlia: A p2p information system based on the XOR metric ](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
