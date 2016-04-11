@@ -38,6 +38,8 @@
 * 23-03-2016 - [Dream the Impossible Dream: Zen Pencils: Volume Two](https://www.goodreads.com/book/show/25205331-dream-the-impossible-dream)
  
 ## Apr
+* 03-04-2016 - [വിഹിതം](https://www.goodreads.com/book/show/25146671-vihitham)
+* 10-04-2016 - [മീസാന്‍ കല്ലുകളുടെ കാവല്‍](https://www.goodreads.com/book/show/21841539-meesan-kallukalute-kaval)
 
 ## May
 
