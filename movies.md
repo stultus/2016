@@ -26,6 +26,7 @@ Movies watched.
 * 07-04-2016 - [Kali](http://www.imdb.com/title/tt5335128/)
 * 09-04-2016 - [Jacobinte Swargarajyam](http://www.imdb.com/title/tt5376232/)
 * 10-04-2016 - [Jungle Book](http://www.imdb.com/title/tt3040964/)
+* 11-04-2016 - [Kung fu panda 3](http://www.imdb.com/title/tt2267968/)
 
 ## May
 
