@@ -28,6 +28,7 @@ Movies watched.
 * 10-04-2016 - [Jungle Book](http://www.imdb.com/title/tt3040964/)
 * 11-04-2016 - [Kung fu panda 3](http://www.imdb.com/title/tt2267968/)
 * 18-04-2016 - [Fan](www.imdb.com/title/tt3495026/)
+* 19-04-2016 - [Theri](http://www.imdb.com/title/tt5440700/)
 
 ## May
 
