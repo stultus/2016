@@ -40,8 +40,14 @@
 ## Apr
 * 03-04-2016 - [വിഹിതം](https://www.goodreads.com/book/show/25146671-vihitham)
 * 10-04-2016 - [മീസാന്‍ കല്ലുകളുടെ കാവല്‍](https://www.goodreads.com/book/show/21841539-meesan-kallukalute-kaval)
+* 22-04-2016 [The Memoirs of Sherlock Holmes](https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes)
+* 25-04-2016[മുരളി ഗോപിയുടെ കഥകൾ](https://www.goodreads.com/book/show/26102645-murali-gopiyude-kadhakal)
+* 26-04-2016 - [മുകേഷ് കഥകള്‍ ജീവിതത്തിലെ നേരും നര്‍മ്മവും](https://www.goodreads.com/book/show/15757404-mukesh-kathakal---jeevithat)
 
 ## May
+* 04-05-2016 - [ഞാൻ ഇന്നസെന്റ്](https://www.goodreads.com/book/show/18687754-njan-innocent)
+* 07-05-2016 - [ഉറങ്ങുമ്പോള്‍ എല്ലാവരും തനിച്ചാണ്](https://www.goodreads.com/book/show/30132041-urangumpol-ellavarum-thanichanu)
+
 
 ## Jun
 
