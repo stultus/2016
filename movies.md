@@ -33,6 +33,8 @@ Movies watched.
 
 ## May
 * 14-05-2016 - [Ozhivudivasathe Kali](http://www.imdb.com/title/tt4920960/)
+* 27-05-2016 - [Kammattippadam](http://www.imdb.com/title/tt5458088/)
+* 28-05-2016 - [Angry birds](http://www.imdb.com/title/tt1985949/)
 ## Jun
 
 ## Jul
