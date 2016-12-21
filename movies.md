@@ -75,3 +75,4 @@ Movies watched.
 *     [Iraivi](http://www.imdb.com/title/tt5477194/)
 *     [Kabali](http://www.imdb.com/title/tt5071886/)
 *     [24](http://www.imdb.com/title/tt4981966/)
+*     [The Dark Knight](http://www.imdb.com/title/tt0468569/)
